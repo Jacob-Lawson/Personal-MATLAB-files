@@ -1,4 +1,8 @@
-%% NACA 4 digit airfoil plot function %%
+%{
+    NACA 4 digit airfoil plot function
+    Created by: Jacob Lawson
+    Date: 02/05/2019
+%}  
 
 t = (randi([5 18]))/100; % generates a random max thickness between 5 and 18 as a percentage
 x = 0 : 0.01 : 1; % generates x as a series of values between 0 and 1 with a step of 0.01

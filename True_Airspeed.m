@@ -1,3 +1,9 @@
+%{
+    True Air Speed Simulation
+    Created by: Jacob Lawson
+    Date: 02/05/2019
+%}  
+
 % V = true airspeed
 m = 85000; % aircraft mass in kg
 g = 9.81; % acceleration due to gravity in m/s
